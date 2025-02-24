@@ -1,16 +1,6 @@
 ### Introduction
 
-My neovim config based on [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
-
-List of changes to kickstart.nvim:
-
-* Enable relative line numbers
-* [Catppuccin theme](https://github.com/catppuccin/nvim)
-* Add [nvim-autopairs](https://github.com/windwp/nvim-autopairs)
-* Add a couple of useful keybinds
-* Enable scrolloff
-* Add [wakatime](https://github.com/wakatime/vim-wakatime)
-* Set indent to 4 spaces
+My neovim config based on ignassew's nvim config(https://github.com/ignassew/nvim-config)
 
 ### Installation
 
